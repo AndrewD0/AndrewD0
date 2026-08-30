@@ -1,4 +1,4 @@
-## Hello, my name is Andrew. 👋
+## Hello, my name is Andrew.
 
 I am a final-year engineering physics student studying at the University of British Columbia. I'm currently interning at Tesla on their vehicle hardware team. I have a strong passion for digital hardware design, electronics, and machine learning; I love working on projects that live at the intersection of all three.
 <!--
