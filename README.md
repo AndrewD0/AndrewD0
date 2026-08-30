@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello, my name is Andrew. 👋
 
+I am a final-year engineering physics student studying at the University of British Columbia. I'm currently interning at Tesla on their vehicle hardware team. I have a strong passion for digital hardware design, electronics, and machine learning; I love working on projects that live at the intersection of all three.
 <!--
 **AndrewD0/AndrewD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
